@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nisheshawale
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - nisheshawale/plagiarism-detection-in-assignments
+  - nisheshawale/remote-health-care
+  - nisheshawale/cnn-smartphone-user-authentication
+  - nisheshawale/sell-in-auction
+  - nisheshawale/Li-Chain

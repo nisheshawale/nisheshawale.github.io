@@ -2,96 +2,152 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nishesh Awale
     - name: Date of Birth
-      value: 14th March 1879
+      value: 27th December 1998
     - name: Languages
-      value: English, German
+      value: English, Nepali, Newari, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelors in Engineering
+      institution: Institute of Engineering, Pulchowk Campus, Tribhuvan University
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Electronics and Communication Engineering
+        - University Topper
+        - title: Computer Science Courseworks
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+            - Computer Programming (C), Object Oriented Programming in C++, Discrete structure, Computer Organization and Architecture, Computer Graphics, Embedded System, Computer Networks, Microprocessor, Project Mangement, Digital Signal Processing
+        - title: Artificial Intelligence Courseworks
+          contents:
+            - Artificial Intelligence, Data Mining, Big Data Technologies
+        - title: Mathematics Courseworks
+          contents: 
+            - Linear Algebra, Probability & Statistics, Calculus I, Calculus II, Numerical Methods
+    # - title: Federal teaching diploma
+    #   institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+    #   year: 1900
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: AI Engineer
+      institution: Seelogic International Pvt. Ltd.
+      year: Jun 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Lead the project to develop a system that ranks the clients based on the Customer Relationship Management (CRM) and Enterprise Relationship Management (ERP) data.
+        - Developed project timeline and project plan to carry out the necessary tasks for the project.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: Machine Learning Engineer Level I
+      institution: Fusemachines Nepal Pvt. Ltd.
+      year: Jan 2022 - Jun 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Lead the project to develop a classification model to detect fake Louis Vuitton, Chanel and Gucci bags from the real ones. Located different areas of interest in the images to extract meaningful information which improved sensitivity from 90% to 95% and specificity from 87% to 95%.
+        - Created a system to rank the resumes of candidates based on the job description. Performed topic extraction to select relevant skills from the resume and job description.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Machine Learning Engineer Associate
+      institution: Fusemachines Nepal Pvt. Ltd.
+      year: Apr 2021 - Dec 2021
       description:
+        - Developed AI enabled product to extract information from handwritten forms. Improved Nepali OCR system for handwritten text upto 25% character error rate with regularization, hyperparameter tuning and error analysis.
+        - Worked on AI models to detect tables in financial documents. Experimented with both machine readable and scanned pdf (both bordered and borderless).
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Machine Learning Engineer / Freelancer
+      institution: ASMII
+      year: Jul 2020 - Nov 2020
+      description:
+        - Developed a deep learning system to perform continuous authentication of smartphones from the behavioral data using mobile sensors.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: AWS AI/ML Intern
+      institution: Genese Solution
+      year: Sep 2020 - Dec 2020
+      description:
+        - Understood about cloud computing and hosting web server as well as other different services on AWS.
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2021
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - title: University Topper
+          contents: 
+            - Tribhuvan University
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - title: Ncell Scholarship and Excellence Award
+          contents:
+            - Ncell
+        - title: Fonepay Student Ambassador
+          contents:
+            - Fonepay
+        - title: Yantra Learning 8.0 Thematic Category Winner
+          contents:
+            - Robotics Association of Nepal
+    - year: 2019
+      items: 
+        - title: Ncell Scholarship and Excellence Award
+          contents:
+            - Ncell
+        - title: AI Fellowship
+          contents:
+            - Fusemachines
+        - title: Rising Student ICT Award
+          contents:
+            - Living with ICT
+        - title: Blockchain Challenge Winner
+          contents:
+            - Everest Hack
+    - year: 2017
+      items: 
+        - title: Ncell Scholarship and Excellence Award
+          contents: 
+            - Ncell
+    - year: 2016
+      items:
+        - title: Institute of Engineering Scholarship for B.E.
+          contents:
+            - Institute of Engineering, Pulchowk Campus
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Natural Language Processing
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Information Extraction
+        - Machine Translation, Chatbots
+        - Efficient similarity search
+    - title: Computer Vision
       items:
-        - Description 1.
-        - Description 2.
+        - Optical Character Recognition (OCR)
+        - Image Segmentation and Recognition
+
+- title: Skills
+  type: list
+  contents:
+    - <b>Programming Languages:</b> Python, C, C++, Javascript, SQL
+    - <b>Machine Learning:</b> Pytorch, Tensorflow, Numpy, Pandas, Matplotlib, Scikit-Learn, OpenCV, Spacy, NLTK, CometML
+    - <b>Backend:</b> Django, Rest framework, Flask, Fastapi, Streamlit
+    - <b>Frontend:</b> HTML, CSS, ReactJS, Bootstrap
+    - <b>Database:</b> MySQL, MongoDB 
+    - <b>Deployment:</b> Docker, AWS
+    - <b>Soft skills:</b> Leadership, Teamwork, Time management, Good communication
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <b>Hobbies:</b> Hiking, Guitar and Soccer
