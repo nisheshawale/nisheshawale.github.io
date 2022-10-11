@@ -53,7 +53,7 @@ Let, T(n) be the time required for a call on BINARY-RECURSIVE(A[i…j], x) where
 I think it is worth mentioning that the above algorithm can be implemented iteratively rather than recursively. The running time will be same in both cases. The only difference is that recursion needs some additional spaces because of function calls.
 
 Originally Posted On:  
-[My blog series](https://selfstudygeek.blogspot.com/2018/11/binary-search.html)
+[My blog series](https://nisheshawale.blogspot.com/2018/11/binary-search.html)
 
 Reference:  
 [Fundamentals of Algorithmics](https://www.amazon.com/Fundamentals-Algorithmics-Gilles-Brassard/dp/0133350681)

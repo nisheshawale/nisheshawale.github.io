@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: I mostly teach and mentor young minds to get them excited about technology.
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+**Hardware Fellowship**  
+LOCUS (25<sup>th</sup> November 2019 - 5<sup>th</sup> December 2019)
+- Organized 15 days workshop and taught C, python, and arduino programming basics to more than 70 fresher students. Demonstrated the applications of arduino and python projects and encouraged the freshers to build their own projects. More than 35 fresher students participated in LOCUS 2020 competition making their own projects.
+- Mentored a group from junior year to carry out their project on `Smart Traffic Management System` for display in the 17<sup>th</sup> National Technological Festival of our college
 
-Organize your courses by years, topics, or universities, however you like!
+**Children In Technology**  
+LOCUS (14<sup>th</sup> - 20<sup>th</sup> November 2017)
+- Conducted sessions for different high schools in Nepal to teach their students about the basic electronics and programming.
+- In basic electronics, multivibrator circuit and the components needed to build it on the breadboard was taught to the students. 
+- In programming, basics of HTML and CSS was taught to the students.

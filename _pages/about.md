@@ -22,4 +22,6 @@ I am a machine learning engineer by profession. I graduated with *summa cum laud
 
 My main research interests lies in extracting information in the structured form from documents that are in an unstructured and semi-structured format. I am always looking forward to blend both NLP as well as computer vision techniques in information extraction as well as in AI projects in general.
 
+I am also a member of Sakura Science Club Japan. I possess strong leadership skills with creative problem solving abilities.
+
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
