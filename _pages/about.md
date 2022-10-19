@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://seelogic.co.uk/'>Seelogic International</a>. Kathmandu, Nepal.
+subtitle: AI Engineer at <a href='https://seelogic.co.uk/'>Seelogic International</a>, Kathmandu, Nepal.
 
 profile:
   align: right
@@ -18,10 +18,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a machine learning engineer by profession. I graduated with *summa cum laude* (as a university topper) from the Institute of Engineering, Pulchowk Campus, Tribhuvan University in Bachelors of Electronics and Communication Engineering. I have two years of experience in developing AI enabled products with a focus in Natural Language Processing as well as Computer Vision.
+I am a machine learning engineer by profession. I received a Bachelor of Electronics and Communication Engineering from the Institute of Engineering, Pulchowk Campus, Tribhuvan University, graduating *`summa cum laude`* `(university topper)`. I have two years of expertise in developing AI-enabled products with an emphasis on Natural Language Processing as well as Computer Vision. Right now, I am seeking a `research assistant position` to work on natural language processing and machine learning problems.
 
-My main research interests lies in extracting information in the structured form from documents that are in an unstructured and semi-structured format. I am always looking forward to blend both NLP as well as computer vision techniques in information extraction as well as in AI projects in general.
+My primary research interests lie in extracting information in the structured form from documents that are in an unstructured and semi-structured format. I am always looking forward to blending both NLP as well as computer vision techniques in information extraction as well as in AI projects in general. I am also interested in multimodal AI research.
 
-I am also a member of Sakura Science Club Japan. I possess strong leadership skills with creative problem solving abilities.
+Additionally, I am a member of Sakura Science Club Japan. I possess strong leadership skills with creative problem-solving abilities.
+
+`Research Interests:` Natural Language Processing, Information Extraction and Multimodal AI Research.
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->

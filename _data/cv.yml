@@ -129,8 +129,10 @@
     - title: Natural Language Processing
       items: 
         - Information Extraction
-        - Machine Translation, Chatbots
+        - Machine Translation
+        - Conversational AI
         - Efficient similarity search
+        - Multimodal AI research
     - title: Computer Vision
       items:
         - Optical Character Recognition (OCR)
@@ -146,6 +148,18 @@
     - <b>Database:</b> MySQL, MongoDB 
     - <b>Deployment:</b> Docker, AWS
     - <b>Soft skills:</b> Leadership, Teamwork, Time management, Good communication
+
+- title: Online Certifications
+  type: list
+  contents:
+    - <a href="https://www.coursera.org/account/accomplishments/verify/33TA8SBQZCVQ">Machine Learning</a>
+    - <a href="https://www.coursera.org/account/accomplishments/specialization/HNKN8XDRJXR2">Deep Learning Specialization</a>
+    - <a href="https://www.coursera.org/account/accomplishments/certificate/SL8VQYGH8324">Natural Language Processing with Tensorflow</a>
+    - <a href="https://www.coursera.org/account/accomplishments/certificate/Q4E999HZ4DPL">Databases and SQL for Data Science with Python</a>
+    - <a href="https://www.coursera.org/account/accomplishments/verify/ES8MRJQE6X3J">Python for Data Science</a>
+    - <a href="https://www.coursera.org/account/accomplishments/certificate/BH3V9Z6N2EGQ">Machine Learning with Python</a>
+    - <a href="https://coursera.org/share/0d6743887f21e21d65462dc6e72880b7">Generative Adversarial Networks</a>
+    - <a href="https://coursera.org/share/0290b550ee7ea5d0378343a7bcbcf79e">Blockchain</a>
 
 - title: Other Interests
   type: list
