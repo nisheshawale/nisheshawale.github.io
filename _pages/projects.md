@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Some of my works in Artificial Intelligence.
+description: Some of my works in Artificial Intelligence and Software Development.
 nav: true
 nav_order: 2
 display_categories: [Work, Academic]

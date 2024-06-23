@@ -4,19 +4,29 @@
     - name: Full Name
       value: Nishesh Awale
     - name: Date of Birth
-      value: 27th December 1998
+      value: December 27, 1998
     - name: Languages
       value: English, Nepali, Newari, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelors in Engineering
-      institution: Institute of Engineering, Pulchowk Campus, Tribhuvan University
-      year: 2021
+    - title: Master's in Computer Science
+      institution: University of Nebraska Omaha, USA
+      year: 2024 - 2025
       description:
-        - Electronics and Communication Engineering
-        - University Topper
+        - GPA (4.0)
+        - title: Computer Science Courseworks
+          contents:
+            - Design and Analysis of Algorithms, Advanced Operating System, Software Specifications and Design, and Database Management Systems
+        - title: Artificial Intelligence Courseworks
+          contents:
+            - Advanced Natural Language Understanding, Advanced Topics in Artificial Intelligence
+    - title: Bachelor's in Electronics and Computer Engineering
+      institution: Institute of Engineering, Pulchowk Campus, Tribhuvan University
+      year: 2016 - 2021
+      description:
+        - University Topper, GPA (4.0)
         - title: Computer Science Courseworks
           contents:
             - Computer Programming (C), Object Oriented Programming in C++, Discrete structure, Computer Organization and Architecture, Computer Graphics, Embedded System, Computer Networks, Microprocessor, Project Mangement, Digital Signal Processing
@@ -36,41 +46,49 @@
 - title: Experience
   type: time_table
   contents:
-    - title: AI Engineer
-      institution: Seelogic International Pvt. Ltd.
-      year: Jun 2022 - Present
+    - title: Graduate Research Assistant
+      institution: University of Nebraska Omaha, USA
+      year: Jan 2024 - Present
       description:
-        - Lead the project to develop a system that ranks the clients based on the Customer Relationship Management (CRM) and Enterprise Relationship Management (ERP) data.
-        - Developed project timeline and project plan to carry out the necessary tasks for the project.
+        - Developed a system that analyze the data from waist-mounted triaxial accelerometer and generates an activity profile of a person. Computed energy expenditure to find the correlation between hearing loss and mobility of aging agricultural farmers.
+        - Utilized feature selection and machine learning techniques to classify different types of activities using data collected from wrist-based accelerometer improving accuracy from 85% to 94%.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: Machine Learning Engineer Level I
-      institution: Fusemachines Nepal Pvt. Ltd.
-      year: Jan 2022 - Jun 2022
+    - title: Software Engineer - Machine Learning
+      institution: Coac GmbH, Berlin, Germany
+      year: Aug 2023 - Dec 2023
       description:
-        - Lead the project to develop a classification model to detect fake Louis Vuitton, Chanel and Gucci bags from the real ones. Located different areas of interest in the images to extract meaningful information which improved sensitivity from 90% to 95% and specificity from 87% to 95%.
-        - Created a system to rank the resumes of candidates based on the job description. Performed topic extraction to select relevant skills from the resume and job description.
+        - Led a team of four to create a RAG-based question answering system to query on private documents and databases. Implemented efficient APIs with token-based authentication collaborating with the frontend team.
 
-    - title: Machine Learning Engineer Associate
-      institution: Fusemachines Nepal Pvt. Ltd.
-      year: Apr 2021 - Dec 2021
+    - title: Software Engineer - Artificial Intelligence
+      institution: Dogma Group, Kathmandu, Nepal
+      year: Jun 2022 - Jul 2023
       description:
-        - Developed AI enabled product to extract information from handwritten forms. Improved Nepali OCR system for handwritten text upto 25% character error rate with regularization, hyperparameter tuning and error analysis.
-        - Worked on AI models to detect tables in financial documents. Experimented with both machine readable and scanned pdf (both bordered and borderless).
+        - Led the project to develop a system that ranks the clients based on Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) data.
+        - Designed a system that extracts header, footer, and table information from purchase invoices & deployed it to production reducing manual extraction time by 40%. Fine-tuned LayoutLM model for header / footer information and table transformer model from Microsoft for table extraction on in-house manually annotated data.
 
-    - title: Machine Learning Engineer / Freelancer
-      institution: ASMII
-      year: Jul 2020 - Nov 2020
+    - title: Software Engineer - Machine Learning
+      institution: Fusemachines, Kathmandu, Nepal
+      year: Apr 2020 - Jun 2022
       description:
-        - Developed a deep learning system to perform continuous authentication of smartphones from the behavioral data using mobile sensors.
+        - Led the project to develop a classification model to detect fake Louis Vuitton, Chanel, and Gucci bags from the real ones. Located different areas of interest in the images to extract meaningful information, improving sensitivity from 90% to 95% and specificity from 87% to 95%.
+        - Created a system to rank the resumes of candidates based on the job description that achieved an overall recall of 84%. Experimented and evaluated the results of keyword-based and transformer-based named entity recognition to extract relevant skills from resumes.
+        - Developed AI-enabled product to automate information extraction from handwritten forms. Improved Nepali OCR system for handwritten texts from 27% to 15% character error rate with regularization, hyperparameter tuning, and error analysis. Also, worked on information extraction from PDFs using classical image processing and deep learning techniques.
+        - Selected among the top 25 students out of 1000+ applicants for the AI Fellowship program.
 
-    - title: AWS AI/ML Intern
-      institution: Genese Solution
-      year: Sep 2020 - Dec 2020
+    - title: Software Engineer - Freelance
+      institution: ASMI, Nepal
+      year: Jan 2020 - Mar 2020
       description:
-        - Understood about cloud computing and hosting web server as well as other different services on AWS.
+        - Apply OCR and object detection models to extract information from images of mathematical questions. Fine-tuned Yolov5, single-shot detection and faster RCNN models for bounding box detection.
+
+    - title: Software Developer Intern
+      institution: Genese Software Solution, Lalitpur, Nepal
+      year: Sep 2019 - Dec 2019
+      description:
+        - Worked with EC2, AWS lambda, S3, Amazon ECR, Amazon Sagemaker, Amazon Rekognition, and Amazon Lex.
 
 # - title: Open Source Projects
 #   type: time_table
@@ -78,6 +96,19 @@
 #     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Skills
+  type: list
+  contents:
+    - <b>Programming Languages:</b> Python, C, C++, Javascript (Familiar)
+    - <b>Machine Learning / Deep Learning:</b> Natural Language Processing, Computer Vision, LLM, Neural Networks, Information Retrieval
+    - <b>Frameworks and Tools:</b> Pytorch, Tensorflow, Numpy, Pandas, Matplotlib, Scikit-Learn, OpenCV, Spacy, NLTK, CometML, Langchain, Unix/Linux
+    - <b>Backend:</b> Django, Rest framework, Flask, Fastapi, Streamlit
+    - <b>Frontend:</b> HTML, CSS, Bootstrap, ReactJS (Familiar)
+    - <b>Database:</b> MySQL, MongoDB, Chroma, Redis
+    - <b>Deployment:</b> Docker, AWS, Azure (Familiar)
+    - <b>Soft skills:</b> Leadership, Teamwork, Time management, Good communication
+
 
 - title: Honors and Awards
   type: time_table
@@ -123,31 +154,20 @@
           contents:
             - Institute of Engineering, Pulchowk Campus
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Natural Language Processing
-      items: 
-        - Information Extraction
-        - Machine Translation
-        - Conversational AI
-        - Efficient similarity search
-        - Multimodal AI research
-    - title: Computer Vision
-      items:
-        - Optical Character Recognition (OCR)
-        - Image Segmentation and Recognition
-
-- title: Skills
-  type: list
-  contents:
-    - <b>Programming Languages:</b> Python, C, C++, Javascript, SQL
-    - <b>Machine Learning:</b> Pytorch, Tensorflow, Numpy, Pandas, Matplotlib, Scikit-Learn, OpenCV, Spacy, NLTK, CometML
-    - <b>Backend:</b> Django, Rest framework, Flask, Fastapi, Streamlit
-    - <b>Frontend:</b> HTML, CSS, ReactJS, Bootstrap
-    - <b>Database:</b> MySQL, MongoDB 
-    - <b>Deployment:</b> Docker, AWS
-    - <b>Soft skills:</b> Leadership, Teamwork, Time management, Good communication
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Natural Language Processing
+#       items: 
+#         - Information Extraction
+#         - Machine Translation
+#         - Conversational AI
+#         - Efficient similarity search
+#         - Multimodal AI research
+#     - title: Computer Vision
+#       items:
+#         - Optical Character Recognition (OCR)
+#         - Image Segmentation and Recognition
 
 - title: Online Certifications
   type: list
