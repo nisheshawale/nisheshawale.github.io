@@ -6,7 +6,7 @@ subtitle: M.S. CS at the<a href='https://www.unomaha.edu/'> University of Nebras
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Omaha, Nebraska, USA</p>
